@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+Me inspirei no site oficial do cantor paulista Jão, e com meus conhecimentos (e alguns novos que adquiri ao fazer o projeto) recriei de um jeito que me agrade mais.
 
 - [Acesse o projeto finalizado, online.](https://kauatiezzi.github.io/jao-website)
 
